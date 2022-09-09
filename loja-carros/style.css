@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+  }
+h2 {
+    color: white;
+  }
+body {
+    font-family: Arial;
+  }
+span {
+    color: #febe01;
+  }
+p {
+    color: #b2b2b2;
+  }
+
+#valor{
+    font-weight:bold;
+  }
+  
+ 
+  div {
+    background-color: #111;
+    border-radius: 4px;
+    margin: 10px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+  }
+  
+ 
+  button{
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight:700;
+    padding: 10px 14px;
+    background-color: #febe01;
+  }
